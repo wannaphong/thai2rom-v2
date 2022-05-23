@@ -1,4 +1,4 @@
-# Thai-Rom Seq2seq with attention
+# Thai-Roman Seq2seq with attention
 
 - Thank you Lalita Lowphansirikul for code. https://github.com/PyThaiNLP/pythainlp/pull/246 and https://github.com/PyThaiNLP/pythainlp/issues/202
 - Train Thai-Rom model Seq2seq with attention
