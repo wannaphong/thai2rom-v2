@@ -5,3 +5,12 @@
 - Max 72 epochs.
 - Use 72 epoch for training Thai-English transliterate 
 - Full this report: https://bit.ly/3wMsiTU
+
+**CER**
+
+from testset
+
+| Epochs | CER    |
+| ------ | ------ |
+| 72     | 35.58% |
+

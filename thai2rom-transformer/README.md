@@ -6,3 +6,14 @@ Training report: https://wandb.ai/wannaphong/th-en-transformer/reports/Thai-Roma
 - Multiple languages (and Thai) -> English
 - model: transformer
 - pre-processing: normalization + SentencePiece (spm32k,spm32k)
+
+**CER**
+
+from testset
+
+| Epochs | CER    |
+| ------ | ------ |
+| 1      | 41.87% |
+| 2      | 40.70% |
+| 4      | 71.58% |
+

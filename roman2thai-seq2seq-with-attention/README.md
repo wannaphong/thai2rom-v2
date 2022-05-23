@@ -7,3 +7,14 @@ Training report: https://wandb.ai/wannaphong/en-th-thai_romanize_pytorch_seq2seq
 - Train Roman-Thai Seq2seq with attention
 - Max 25 epoch
 - Use 15 epoch for training Thai-English transliterate 
+
+**CER**
+
+from testset
+
+| Epochs | CER    |
+| ------ | ------ |
+| 14     | 34.75% |
+| 15     | 34.79% |
+| 25     | 32.92% |
+
